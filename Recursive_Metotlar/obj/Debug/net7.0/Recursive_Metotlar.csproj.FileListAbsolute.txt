@@ -1,0 +1,15 @@
+E:\Patika\CSharpNetCore\Recursive_Metotlar\bin\Debug\net7.0\Recursive_Metotlar.exe
+e:\Patika\CSharpNetCore\Recursive_Metotlar\bin\Debug\net7.0\Recursive_Metotlar.deps.json
+e:\Patika\CSharpNetCore\Recursive_Metotlar\bin\Debug\net7.0\Recursive_Metotlar.runtimeconfig.json
+E:\Patika\CSharpNetCore\Recursive_Metotlar\bin\Debug\net7.0\Recursive_Metotlar.dll
+E:\Patika\CSharpNetCore\Recursive_Metotlar\bin\Debug\net7.0\Recursive_Metotlar.pdb
+E:\Patika\CSharpNetCore\Recursive_Metotlar\obj\Debug\net7.0\Recursive_Metotlar.csproj.AssemblyReference.cache
+E:\Patika\CSharpNetCore\Recursive_Metotlar\obj\Debug\net7.0\Recursive_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Patika\CSharpNetCore\Recursive_Metotlar\obj\Debug\net7.0\Recursive_Metotlar.AssemblyInfoInputs.cache
+E:\Patika\CSharpNetCore\Recursive_Metotlar\obj\Debug\net7.0\Recursive_Metotlar.AssemblyInfo.cs
+E:\Patika\CSharpNetCore\Recursive_Metotlar\obj\Debug\net7.0\Recursive_Metotlar.csproj.CoreCompileInputs.cache
+E:\Patika\CSharpNetCore\Recursive_Metotlar\obj\Debug\net7.0\Recursive_Metotlar.dll
+E:\Patika\CSharpNetCore\Recursive_Metotlar\obj\Debug\net7.0\refint\Recursive_Metotlar.dll
+E:\Patika\CSharpNetCore\Recursive_Metotlar\obj\Debug\net7.0\Recursive_Metotlar.pdb
+e:\Patika\CSharpNetCore\Recursive_Metotlar\obj\Debug\net7.0\Recursive_Metotlar.genruntimeconfig.cache
+e:\Patika\CSharpNetCore\Recursive_Metotlar\obj\Debug\net7.0\ref\Recursive_Metotlar.dll
